@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Taller Espacio y Ciudad on Felipe Rojas - taller ciudad espacio</title>
+    <title>Felipe Rojas on Felipe Rojas - taller ciudad espacio</title>
     <link>https://rojasbarriosfelipe.github.io/taller-ciudad-espacio/</link>
-    <description>Recent content in Taller Espacio y Ciudad on Felipe Rojas - taller ciudad espacio</description>
+    <description>Recent content in Felipe Rojas on Felipe Rojas - taller ciudad espacio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 May 2021 19:30:08 +1000</lastBuildDate><atom:link href="https://rojasbarriosfelipe.github.io/taller-ciudad-espacio/index.xml" rel="self" type="application/rss+xml" />
@@ -22,6 +22,15 @@
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
       <guid>https://rojasbarriosfelipe.github.io/taller-ciudad-espacio/docs/markdown/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Encargo-1</title>
+      <link>https://rojasbarriosfelipe.github.io/taller-ciudad-espacio/docs/encargo-1/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://rojasbarriosfelipe.github.io/taller-ciudad-espacio/docs/encargo-1/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
