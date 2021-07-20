@@ -119,7 +119,7 @@
           
 <h1 class="title">2 - Mecanizado CNC</h1>
 <div class="content ">
-  <p><img src="/img/portada.jpg" alt="foto prueba"></p>
+  <p><img src="/taller-fabricacion/img/portada.jpg" alt="foto prueba"></p>
 <p>Mecanizado CNC es una manera que se ocupa para cortar materiales con máquinas herramienta controladas numéricamente por computadoras.</p>
 <p>El proceso de mecanizado CNC interpreta el modelo CAD 3D y transfiere los datos a la máquina CNC. La principal ventaja de este proceso es que las piezas producidas por CNC pueden reemplazar los prototipos producidos por fabricación aditiva con materiales de calidad de producción. Este método permite imprimir las piezas en los materiales utilizados para la producción.</p>
 <p>El mecanizado CNC es ideal para la creación rápida de prototipos de piezas de plástico y metal de alta calidad que requieren el más alto grado de precisión, acabado superficial y propiedades del material.</p>
@@ -316,37 +316,37 @@
 </p>
 <h1 id="silla-fresia">Silla Fresia</h1>
 <p>Este es un ejemplo de lo que se puede hacer con máquinas CNC</p>
-<p><img src="/img/plano3.png" alt="foto prueba">
-<img src="/img/plano1.png" alt="foto prueba">
-<img src="/img/plano2.png" alt="foto prueba"></p>
+<p><img src="/taller-fabricacion/img/plano3.png" alt="foto prueba">
+<img src="/taller-fabricacion/img/plano1.png" alt="foto prueba">
+<img src="/taller-fabricacion/img/plano2.png" alt="foto prueba"></p>
 <h2 id="pasos-de-mecanizado-cnc">Pasos de Mecanizado CNC</h2>
 <p>A continuación se mostrará cómo funciona el programa por el cual se dan las instrucciones para que la máquina CNC corte según el resultado que queremos.</p>
 <h3 id="paso-1">Paso 1</h3>
 <p>Definir área de trabajo: Plancha de Terciado. (selección en SKETCH, con visualización en TOP), se selecciona el plano XY para crear un cuadrado de 1220X1220 mm (media plancha de terciado).</p>
 <h3 id="paso-2">Paso 2</h3>
 <p>Sobre el cuadrado se realiza un EXTRUDE de 15mm hacia arriba, luego con MOVE/COPY se mueve la silla sobre la plancha por capas, cambiándolas al plano horizontal. Para esto se usa el comando ALIGN. (usar FLIP para que todas las piezas queden en la misma área de trabajo)
-<img src="/img/sillafresia/1.png" alt="foto prueba"></p>
+<img src="/taller-fabricacion/img/sillafresia/1.png" alt="foto prueba"></p>
 <h3 id="paso-3">Paso 3</h3>
 <p>Luego se deber ir a DISEÑO&gt;MANUFACTURA, en SETUP se escoge la maquina Autodesk CNC de 3 ejes genérica.
-<img src="/img/sillafresia/2.png" alt="foto prueba"></p>
+<img src="/taller-fabricacion/img/sillafresia/2.png" alt="foto prueba"></p>
 <h3 id="paso-4">Paso 4</h3>
 <p>En Stock&gt;from solid se selecciona la plancha anteriormente creada y las piezas a cortar. Para esto se debe apagar la plancha y luego en “orientación” clickear en “Select Z axis/plane &amp; X axis”. Luego se prende la plancha y se orienta el área de trabajo con el eje X frente a nosotros y el eje Y hacia el fondo (y Z como altura).
-<img src="/img/sillafresia/3.png" alt="foto prueba"></p>
+<img src="/taller-fabricacion/img/sillafresia/3.png" alt="foto prueba"></p>
 <h3 id="paso-5">Paso 5</h3>
 <p>Para realizar el 2D contour, se seleccionan las aristas de la base y la herramienta de corte; FRESA de 6mm (flat end mil). Aparecerán unas líneas que indican la trayectoria de la FRESA para realizar el mecanizado. *botón derecho&gt;simular
-<img src="/img/sillafresia/4.png" alt="foto prueba"></p>
+<img src="/taller-fabricacion/img/sillafresia/4.png" alt="foto prueba"></p>
 <h3 id="paso-6">Paso 6</h3>
 <p>Se debe editar la profundidad de la plancha en Contour2D&gt;passes&gt;multiple dephts y se debe cambiar el maximun roughing a 3mm. Ahora la FRESA recortara la plancha en 5 pasos.
-<img src="/img/sillafresia/5.png" alt="foto prueba"></p>
+<img src="/taller-fabricacion/img/sillafresia/5.png" alt="foto prueba"></p>
 <h3 id="paso-7">Paso 7</h3>
 <p>Usando el comando 2D POCKET, se vuelve a seleccionar passes&gt;multiple dephts&gt; y cambiar el máximum roughing a 3mm. Esto rebajará el área interna seleccionada.
-<img src="/img/sillafresia/6.png" alt="foto prueba"></p>
+<img src="/taller-fabricacion/img/sillafresia/6.png" alt="foto prueba"></p>
 <h3 id="paso-8">Paso 8</h3>
 <p>Luego, para realizar el área externa, se vuelve a seguir la sucesión de pasos indicada en el PASO 6, que indica el trayecto de la herramienta.  Finalmente, al terminar quedara la pieza suelta por lo que para evitar que se rompa la plancha se deben ajustar los TABS en width: 6mm ; Height: 3mm ; Distance: 350mm.
-<img src="/img/sillafresia/7.png" alt="foto prueba"></p>
+<img src="/taller-fabricacion/img/sillafresia/7.png" alt="foto prueba"></p>
 <h3 id="paso-9">Paso 9</h3>
 <p>Se hace una simulación final, en la que se mostraran todos los pasos anteriores con la pieza mecanizada.
-<img src="/img/sillafresia/8.png" alt="foto prueba"></p>
+<img src="/taller-fabricacion/img/sillafresia/8.png" alt="foto prueba"></p>
 <h1 id="galería">Galería</h1>
 <p>
 
