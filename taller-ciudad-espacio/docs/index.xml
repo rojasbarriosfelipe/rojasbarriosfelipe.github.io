@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taller Espacio y Ciudad 2021 on Felipe Rojas - taller ciudad espacio</title>
-    <link>https://rojasbarriosfelipe.github.io/docs/</link>
+    <link>https://rojasbarriosfelipe.github.io/taller-ciudad-espacio/docs/</link>
     <description>Recent content in Taller Espacio y Ciudad 2021 on Felipe Rojas - taller ciudad espacio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://rojasbarriosfelipe.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://rojasbarriosfelipe.github.io/taller-ciudad-espacio/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1-Tema</title>
-      <link>https://rojasbarriosfelipe.github.io/docs/1-tema/</link>
+      <link>https://rojasbarriosfelipe.github.io/taller-ciudad-espacio/docs/1-tema/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://rojasbarriosfelipe.github.io/docs/1-tema/</guid>
+      <guid>https://rojasbarriosfelipe.github.io/taller-ciudad-espacio/docs/1-tema/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
       <title>2-Dibujos</title>
-      <link>https://rojasbarriosfelipe.github.io/docs/2-dibujos/</link>
+      <link>https://rojasbarriosfelipe.github.io/taller-ciudad-espacio/docs/2-dibujos/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://rojasbarriosfelipe.github.io/docs/2-dibujos/</guid>
+      <guid>https://rojasbarriosfelipe.github.io/taller-ciudad-espacio/docs/2-dibujos/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
       <title>3-Propuesta de Valor</title>
-      <link>https://rojasbarriosfelipe.github.io/docs/3-propuestavalor/</link>
+      <link>https://rojasbarriosfelipe.github.io/taller-ciudad-espacio/docs/3-propuestavalor/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://rojasbarriosfelipe.github.io/docs/3-propuestavalor/</guid>
+      <guid>https://rojasbarriosfelipe.github.io/taller-ciudad-espacio/docs/3-propuestavalor/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
       <title>4-Animación</title>
-      <link>https://rojasbarriosfelipe.github.io/docs/4-animaci%C3%B3n/</link>
+      <link>https://rojasbarriosfelipe.github.io/taller-ciudad-espacio/docs/4-animaci%C3%B3n/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://rojasbarriosfelipe.github.io/docs/4-animaci%C3%B3n/</guid>
+      <guid>https://rojasbarriosfelipe.github.io/taller-ciudad-espacio/docs/4-animaci%C3%B3n/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
       <title>5-Modelados 3D</title>
-      <link>https://rojasbarriosfelipe.github.io/docs/5-modelado3d/</link>
+      <link>https://rojasbarriosfelipe.github.io/taller-ciudad-espacio/docs/5-modelado3d/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://rojasbarriosfelipe.github.io/docs/5-modelado3d/</guid>
+      <guid>https://rojasbarriosfelipe.github.io/taller-ciudad-espacio/docs/5-modelado3d/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
       <title>6-Midterm</title>
-      <link>https://rojasbarriosfelipe.github.io/docs/6-midterm/</link>
+      <link>https://rojasbarriosfelipe.github.io/taller-ciudad-espacio/docs/6-midterm/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://rojasbarriosfelipe.github.io/docs/6-midterm/</guid>
+      <guid>https://rojasbarriosfelipe.github.io/taller-ciudad-espacio/docs/6-midterm/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
       <title>Ejemplo Shortcodes</title>
-      <link>https://rojasbarriosfelipe.github.io/docs/ejemplo/</link>
+      <link>https://rojasbarriosfelipe.github.io/taller-ciudad-espacio/docs/ejemplo/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://rojasbarriosfelipe.github.io/docs/ejemplo/</guid>
+      <guid>https://rojasbarriosfelipe.github.io/taller-ciudad-espacio/docs/ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
     <item>
       <title>Ejemplos Markdown</title>
-      <link>https://rojasbarriosfelipe.github.io/docs/markdown/</link>
+      <link>https://rojasbarriosfelipe.github.io/taller-ciudad-espacio/docs/markdown/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://rojasbarriosfelipe.github.io/docs/markdown/</guid>
+      <guid>https://rojasbarriosfelipe.github.io/taller-ciudad-espacio/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
